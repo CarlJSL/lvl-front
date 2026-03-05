@@ -43,7 +43,7 @@ Puedes iniciar sesión con cualquiera de estos usuarios:
 - **Usuario:** miguel@lvlconsulting.com
 - **Usuario:** admin@lvlconsulting.com
 
-(No se requiere contraseña para el login de prueba son datos estaticos pero si
+(Funcioa con cualquier contraseña para el login de prueba, son datos estaticos pero si
 se necesita loguearse para entrar a las demás vistas)
 
 ## Mejoras: 
